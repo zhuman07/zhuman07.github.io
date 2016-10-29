@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Bender";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Bender/Bender.eot?#iefix") format("embedded-opentype"), url("../fonts/Bender/Bender.woff") format("woff"), url("../fonts/Bender/Bender.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Bender-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/Bender-Black/Bender_Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Bender-Black/Bender_Black.woff") format("woff"), url("../fonts/Bender-Black/Bender_Black.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Bender-BlackItalic";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/Bender-BlackItalic/Bender_Black_Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/Bender-BlackItalic/Bender_Black_Italic.woff") format("woff"), url("../fonts/Bender-BlackItalic/Bender_Black_Italic.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Bender-Blod";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Bender-Bold/Bender_Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Bender-Bold/Bender_Bold.woff") format("woff"), url("../fonts/Bender-Bold/Bender_Bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Bender-Light";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Bender-Light/Bender_Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Bender-Light/Bender_Light.woff") format("woff"), url("../fonts/Bender-Light/Bender_Light.ttf") format("truetype"); }
